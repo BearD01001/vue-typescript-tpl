@@ -1,6 +1,15 @@
 # vue-typescript-tpl
 
-> A simple project template of vue.js & typescript..
+> A simple project template of vue.js & typescript.
+
+## Relative technology stack
+
+* Vue.js
+* Typescript
+* Pug
+* Less
+* vue-class-component
+* vue-property-decorator
 
 ## Build Setup
 
